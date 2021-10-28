@@ -1,6 +1,6 @@
-from VegetaRobot.events import register
-from VegetaRobot import OWNER_ID
-from VegetaRobot import telethn as tbot
+from serena.events import register
+from serena import OWNER_ID
+from serena import telethn as tbot
 import os
 import random
 from PIL import Image, ImageDraw, ImageFont

@@ -8,14 +8,14 @@ from PIL import Image, ImageDraw, ImageFont
 
 logopics = [
  
- "./VegetaRobot/resources/logomakerbg"
+ "./serena/resources/logomakerbg"
 	
 ]
 	
 
 logofonts = [
  
- "./VegetaRobot/resources/logofonts/Poppins-Bold.otf"
+ "./serena/resources/logofonts/Poppins-Bold.otf"
 	
 ]
 	
